@@ -1,0 +1,17 @@
+{
+  "name": "express-lego",
+  "version": "1.0.0",
+  "description": "",
+  "main": "order-total.js",
+  "scripts": {
+    "test": "jest",
+    "watch-test": "jest --watch *.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  },
+  "dependencies": {
+  }
+}
